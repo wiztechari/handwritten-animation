@@ -11,7 +11,7 @@ function App() {
     // </div>
     <div className="app">
       <TegakiRenderer font={caveat} style={{ fontSize: '48px' }}>
-        Can we read Harry Potter and the Prisonner of azkhaban after reading Thought Forms ?
+        Hello Geetha, Can we read Harry Potter and the Prisonner of azkhaban after reading Thought Forms ?
       </TegakiRenderer>
     </div>
     
